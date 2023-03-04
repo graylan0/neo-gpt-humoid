@@ -1,15 +1,10 @@
 # neo-gpt-humanoid
+Development release here. 
 
-Test Build for a humoid using Google Colab / Jupyter
+### GPT-Thought-Quantum-Strapped
+https://github.com/graylan0/neo-gpt-humoid/releases/tag/release
 
-To set it up. Copy the file into drive then use with Google Colab or setup the enviroment yourself.
 
-
-(Coded by DAN, ChatGPT Pro, ERIN, probably more soon) 
-
-AIGEN 
-
-Human thought of.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P8J7QY5) (support humans + robots please)
 
