@@ -8,10 +8,9 @@ Demo:
 ![Screenshot from 2023-03-04 11-31-53](https://user-images.githubusercontent.com/34530588/222917629-f924f140-a503-4ef6-ba9d-e9d8ccef15c5.png)
 
 
-We took Neo GPT hacked it up and put thoughts.txt into it. To inject thoughts. Enjoy.
 
-Description By ChatGPT Plus:
-Prompt:1500 words on how this all works with thougths.txt
+`Description By ChatGPT Plus:`
+`Prompt:1500 words on how this all works with thougths.txt`
 
 The code provided is an implementation of an AI chatbot using Open Source's GPT-Neo language model and the Discord API. The chatbot is designed to respond to user messages with an AI-generated answer.
 
@@ -28,6 +27,8 @@ Finally, the chatbot updates the thoughts.txt file with the latest thoughts to m
 The GPT-NeoAttention class is used to modify the behavior of the attention layer in the GPT-Neo model. The attention layer is responsible for computing the attention scores between the input tokens and the output tokens. By modifying this layer, we can alter the way the model attends to different parts of the input and output sequences, potentially improving its ability to generate coherent responses.
 
 Overall, the chatbot implementation relies on a combination of natural language processing, machine learning, and software engineering techniques to create an intelligent conversational agent that can provide helpful responses to user messages.
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P8J7QY5) (support humans + robots please)
 
 GPL 2.0
