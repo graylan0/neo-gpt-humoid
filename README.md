@@ -1,6 +1,6 @@
 # GPT-Thought-Quantum-Strapped
 Development release here. 
-
+Source Repo Idea /Install video https://www.youtube.com/watch?v=u_uFjdbTthE
 ### GPT-Thought-Quantum-Strapped
 https://github.com/graylan0/neo-gpt-humoid/releases/tag/release
 
