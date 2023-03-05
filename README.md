@@ -24,7 +24,6 @@ The chatbot then sends the response to the user via the Discord API. To prevent 
 
 Finally, the chatbot updates the thoughts.txt file with the latest thoughts to maintain context for the next message received.
 
-The GPT-NeoAttention class is used to modify the behavior of the attention layer in the GPT-Neo model. The attention layer is responsible for computing the attention scores between the input tokens and the output tokens. By modifying this layer, we can alter the way the model attends to different parts of the input and output sequences, potentially improving its ability to generate coherent responses.
 
 Overall, the chatbot implementation relies on a combination of natural language processing, machine learning, and software engineering techniques to create an intelligent conversational agent that can provide helpful responses to user messages.
 
