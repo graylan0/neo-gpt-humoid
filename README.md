@@ -5,7 +5,9 @@ Source Repo Idea /Install video https://www.youtube.com/watch?v=u_uFjdbTthE
 https://github.com/graylan0/neo-gpt-humoid/releases/tag/release
 
 Sample output with injected thoughts.txt (Quantum Bootstrap)
+
 https://github.com/graylan0/neo-gpt-humoid/blob/main/sample.md
+
 Demo:
 ![Screenshot from 2023-03-04 11-31-53](https://user-images.githubusercontent.com/34530588/222917629-f924f140-a503-4ef6-ba9d-e9d8ccef15c5.png)
 
