@@ -15,7 +15,7 @@ Demo:
 Coding Demo: (Unprompted)
 ![image](https://user-images.githubusercontent.com/34530588/223195139-c1c1a2b3-7cc8-45d9-9d50-5f2a79081526.png)
 
-the first example codeblok
+the first example codeblock
 
 
 #### Example code.
