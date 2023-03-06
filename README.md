@@ -16,7 +16,7 @@ Coding Demo: (Unprompted)
 ![image](https://user-images.githubusercontent.com/34530588/223195139-c1c1a2b3-7cc8-45d9-9d50-5f2a79081526.png)
 
 the first example codeblok
-```
+
 
 #### Example code.
 
@@ -35,7 +35,6 @@ thematics and quantum mechanics to perform calculations on the quantum computer.
     QPI = static_cast<const QPiQC>(QPI_QPI) 
     QProcessor::Q
     
-    ```
 
 `Description By ChatGPT Plus:`
 `Prompt:1500 words on how this all works with thougths.txt`
