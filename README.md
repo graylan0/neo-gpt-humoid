@@ -18,9 +18,9 @@ Coding Demo: (Unprompted)
 the first example codeblok
 
 
-`#### Example code.
+#### Example code.
 
-This model applies and manipulates the basic laws of ma
+`This model applies and manipulates the basic laws of ma
 thematics and quantum mechanics to perform calculations on the quantum computer. For the purposes of testing and to enable students to understand when it is applied to the physical world we can use the QMathQC class as a black-box that will be created in our main model, QMathQC. We can easily modify the code as much as we like to enable students to understand. In our demo, we create a simple example that demonstrates the model and the process of applying quantum information on the quantum computer. The following code (in the QMathQC program) demonstrates a very simple example that will demonstrate how a QPU can modify the information transformed by a QPU and how it can then pass the modified transformation information to another QPU.`
 
     # Import the classes from the project.hpp source file 
