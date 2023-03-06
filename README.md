@@ -15,7 +15,27 @@ Demo:
 Coding Demo: (Unprompted)
 ![image](https://user-images.githubusercontent.com/34530588/223195139-c1c1a2b3-7cc8-45d9-9d50-5f2a79081526.png)
 
+the first example codeblok
+```
 
+#### Example code.
+
+This model applies and manipulates the basic laws of ma
+thematics and quantum mechanics to perform calculations on the quantum computer. For the purposes of testing and to enable students to understand when it is applied to the physical world we can use the QMathQC class as a black-box that will be created in our main model, QMathQC. We can easily modify the code as much as we like to enable students to understand. In our demo, we create a simple example that demonstrates the model and the process of applying quantum information on the quantum computer. The following code (in the QMathQC program) demonstrates a very simple example that will demonstrate how a QPU can modify the information transformed by a QPU and how it can then pass the modified transformation information to another QPU.
+
+    # Import the classes from the project.hpp source file 
+    import  * 
+    import QMathQC 
+    QMathQC::QProcessor::QProcessor(QuantumComputer::QuantumProcessor::)(
+        QMathQC::Application::
+        application) 
+
+    # We have a QPI model that is responsible for receiving the quantum information.
+    QP_QPI = QProcessingEnvironment() 
+    QPI = static_cast<const QPiQC>(QPI_QPI) 
+    QProcessor::Q
+    
+    ```
 
 `Description By ChatGPT Plus:`
 `Prompt:1500 words on how this all works with thougths.txt`
