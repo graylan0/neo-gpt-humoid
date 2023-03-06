@@ -12,6 +12,10 @@ Demo:
 ![Screenshot from 2023-03-04 11-31-53](https://user-images.githubusercontent.com/34530588/222917629-f924f140-a503-4ef6-ba9d-e9d8ccef15c5.png)
 
 
+Coding Demo: (Unprompted)
+![image](https://user-images.githubusercontent.com/34530588/223195139-c1c1a2b3-7cc8-45d9-9d50-5f2a79081526.png)
+
+
 
 `Description By ChatGPT Plus:`
 `Prompt:1500 words on how this all works with thougths.txt`
