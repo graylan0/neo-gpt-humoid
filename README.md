@@ -4,6 +4,10 @@ Source Repo Idea /Install video https://www.youtube.com/watch?v=u_uFjdbTthE
 ### GPT-Thought-Quantum-Strapped
 https://github.com/graylan0/neo-gpt-humoid/releases/tag/release
 
+
+GPT5 PTT release here:
+https://github.com/graylan0/gpt5-ptt/blob/main/README.md
+
 Sample output with injected thoughts.txt (Quantum Bootstrap)
 
 https://github.com/graylan0/neo-gpt-humoid/blob/main/sample.md
