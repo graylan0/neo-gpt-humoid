@@ -1,4 +1,4 @@
-# GPT-Thought-Quantum-Strapped
+# GPT-Thought-Quantum-Strapped Colobit Emotional Research, use with caution
 Development release here. 
 Source Repo Idea /Install video https://www.youtube.com/watch?v=u_uFjdbTthE
 ### GPT-Thought-Quantum-Strapped
